@@ -1,4 +1,4 @@
-# Ignore the logs folder and all its contents
+# Ignore the following folders
 data/
 parquet_files/
 pickle_files/
