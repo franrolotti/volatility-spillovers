@@ -1,3 +1,4 @@
 # Ignore the logs folder and all its contents
 data/
 parquet_files/
+pickle_files/
