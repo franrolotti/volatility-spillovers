@@ -2,3 +2,5 @@
 data/
 parquet_files/
 pickle_files/
+latex_files/
+plots/
